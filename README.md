@@ -85,27 +85,27 @@ Any other opcode: Sends a generic error response.
 
 **Client to Server Commands:**
 ```
-#define CMD\_GET 0x00
+#define CMD_GET 0x00
 
-#define CMD\_SET 0x01
+#define CMD_SET 0x01
 
-#define CMD\_ADD 0x02
+#define CMD_ADD 0x02
 
-#define CMD\_DELETE 0x04
+#define CMD_DELETE 0x04
 
-#define CMD\_VERSION 0x0b
+#define CMD_VERSION 0x0b
 
-#define CMD\_OUTPUT 0x0c
+#define CMD_OUTPUT 0x0c
 ```
 **Server Responses:**
 ```
-#define RES\_OK 0x0000
+#define RES_OK 0x0000
 
-#define RES\_NOT\_FOUND 0x0001
+#define RES_NOT_FOUND 0x0001
 
-#define RES\_EXISTS 0x0002
+#define RES_EXISTS 0x0002
 
-#define RES\_ERROR 0x0004
+#define RES_ERROR 0x0004
 ```
 **Server Includes:**
 ```
