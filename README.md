@@ -1,4 +1,10 @@
- <p align = "center"><strong>CS 214 Programming Assignment 4</strong></p>
+My submitted code is in UdaySubmission/mcached.c
+
+My submitted makefile is in UdaySubmission/makefile
+
+Assignment description is in CS214S25_PA4.pdf and included below for convenience:
+
+<p align = "center"><strong>CS 214 Programming Assignment 4</strong></p>
 
 <p align = "center"><strong>Memory Cache Daemon (100 points)</strong></p>
 
